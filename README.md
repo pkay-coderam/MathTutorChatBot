@@ -1,2 +1,2 @@
 # MathTutorChatBot
-Solves Algebra equations
+Solves Algebra equations and helps explain concepts
